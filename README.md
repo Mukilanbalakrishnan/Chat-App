@@ -28,5 +28,3 @@ A **realtime chat application** built with **React Native**, **Socket.IO**, and 
 
 ---
 
-## 📁 Project Structure
-
