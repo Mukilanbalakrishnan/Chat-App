@@ -28,3 +28,8 @@ A **realtime chat application** built with **React Native**, **Socket.IO**, and 
 
 ---
 
+## ✨ Features
+
+![Link](https://img.shields.io/badge/EAS%20Build-000000?style=for-the-badge&logo=expo&logoColor=white)
+
+---
