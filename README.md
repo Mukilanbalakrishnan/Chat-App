@@ -28,8 +28,8 @@ A **realtime chat application** built with **React Native**, **Socket.IO**, and 
 
 ---
 
-## ✨ Features
+## ✨ APK Kink
 
-![Link](https://img.shields.io/badge/EAS%20Build-000000?style=for-the-badge&logo=expo&logoColor=white)
+![Link]([https://img.shields.io/badge/EAS%20Build-000000?style=for-the-badge&logo=expo&logoColor=white](https://expo.dev/accounts/mukilan33/projects/frontend/builds/699be0ab-20c4-4d9e-8bd9-59f84da51546))
 
 ---
